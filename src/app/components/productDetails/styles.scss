@@ -1,0 +1,59 @@
+@import "../../scss/colors";
+@import "../../scss/sizes";
+
+.pointer {
+    cursor: pointer;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.product-description {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.bg-blue {
+  background-color: $blue;
+}
+
+.font-sm--14 {
+  font-size: $font-14;
+}
+
+.font-sm--16 {
+  font-size: $font-16;
+}
+
+.font-md--24 {
+  font-size: $font-24;
+}
+
+.font-md--28 {
+  font-size: $font-28;
+}
+
+.font-lg--46 {
+  font-size: $font-46;
+}
+
+.line-height--1 {
+  line-height: $em-1;
+}
+
+.p-bottom--32 {
+  padding-bottom: 32px;
+}
+
+.p-top--32 {
+  padding-top: 32px;
+}
+
+.p-top--16 {
+  padding-top: 16px;
+}
+
+.pb-32 {
+  padding-bottom: 32px;
+}
